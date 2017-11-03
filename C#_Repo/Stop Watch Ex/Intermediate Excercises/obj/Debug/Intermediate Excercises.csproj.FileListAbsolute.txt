@@ -1,0 +1,7 @@
+C:\C#_Repo\Stop Watch Ex\Intermediate Excercises\obj\Debug\Intermediate Excercises.csprojResolveAssemblyReference.cache
+C:\C#_Repo\Stop Watch Ex\Intermediate Excercises\obj\Debug\Intermediate Excercises.csproj.CoreCompileInputs.cache
+C:\C#_Repo\Stop Watch Ex\Intermediate Excercises\bin\Debug\Intermediate Excercises.exe.config
+C:\C#_Repo\Stop Watch Ex\Intermediate Excercises\bin\Debug\Intermediate Excercises.exe
+C:\C#_Repo\Stop Watch Ex\Intermediate Excercises\bin\Debug\Intermediate Excercises.pdb
+C:\C#_Repo\Stop Watch Ex\Intermediate Excercises\obj\Debug\Intermediate Excercises.exe
+C:\C#_Repo\Stop Watch Ex\Intermediate Excercises\obj\Debug\Intermediate Excercises.pdb

@@ -1,0 +1,7 @@
+C:\C#_Repo\IO\IO-Operations\obj\Debug\IO-Operations.csproj.CoreCompileInputs.cache
+C:\C#_Repo\IO\IO-Operations\bin\Debug\IO-Operations.exe.config
+C:\C#_Repo\IO\IO-Operations\bin\Debug\IO-Operations.exe
+C:\C#_Repo\IO\IO-Operations\bin\Debug\IO-Operations.pdb
+C:\C#_Repo\IO\IO-Operations\obj\Debug\IO-Operations.exe
+C:\C#_Repo\IO\IO-Operations\obj\Debug\IO-Operations.pdb
+C:\C#_Repo\IO\IO-Operations\obj\Debug\IO-Operations.csprojResolveAssemblyReference.cache

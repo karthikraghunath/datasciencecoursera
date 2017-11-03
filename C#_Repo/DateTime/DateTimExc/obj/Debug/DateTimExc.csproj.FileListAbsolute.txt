@@ -1,0 +1,7 @@
+C:\C#_Repo\DateTime\DateTimExc\bin\Debug\DateTimExc.exe.config
+C:\C#_Repo\DateTime\DateTimExc\bin\Debug\DateTimExc.exe
+C:\C#_Repo\DateTime\DateTimExc\bin\Debug\DateTimExc.pdb
+C:\C#_Repo\DateTime\DateTimExc\obj\Debug\DateTimExc.csproj.CoreCompileInputs.cache
+C:\C#_Repo\DateTime\DateTimExc\obj\Debug\DateTimExc.exe
+C:\C#_Repo\DateTime\DateTimExc\obj\Debug\DateTimExc.pdb
+C:\C#_Repo\DateTime\DateTimExc\obj\Debug\DateTimExc.csprojResolveAssemblyReference.cache

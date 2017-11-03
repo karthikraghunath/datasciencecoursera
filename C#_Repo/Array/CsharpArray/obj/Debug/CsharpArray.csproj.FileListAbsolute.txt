@@ -1,0 +1,7 @@
+C:\C#_Repo\Array\CsharpArray\bin\Debug\CsharpArray.exe.config
+C:\C#_Repo\Array\CsharpArray\bin\Debug\CsharpArray.exe
+C:\C#_Repo\Array\CsharpArray\bin\Debug\CsharpArray.pdb
+C:\C#_Repo\Array\CsharpArray\obj\Debug\CsharpArray.csprojResolveAssemblyReference.cache
+C:\C#_Repo\Array\CsharpArray\obj\Debug\CsharpArray.csproj.CoreCompileInputs.cache
+C:\C#_Repo\Array\CsharpArray\obj\Debug\CsharpArray.exe
+C:\C#_Repo\Array\CsharpArray\obj\Debug\CsharpArray.pdb
