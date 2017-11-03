@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             checked
             {
+
                 byte number = 255;
                 number += 1;
             }
